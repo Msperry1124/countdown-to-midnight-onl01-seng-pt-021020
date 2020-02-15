@@ -1,4 +1,4 @@
-#write your code here
+require 'pry'
 
-def countdown
+def countdown(num)
 end
